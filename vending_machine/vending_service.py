@@ -49,3 +49,4 @@ def buy():#function
         print(f'已購買{buy_drink.name}  {buy_drink.price}元')
         balance -= buy_drink.price
         print(f"購買後餘額是{balance}元")
+

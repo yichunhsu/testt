@@ -72,3 +72,5 @@ while flag:
     else:
         print("=====請輸入1-4之間=====")
         continue
+
+        
