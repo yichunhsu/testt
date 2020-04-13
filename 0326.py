@@ -1,2 +1,2 @@
 print("helloooo")
-priine("0413 test")
+print("0413 test")
